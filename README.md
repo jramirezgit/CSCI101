@@ -2,7 +2,7 @@
 These are codes uploaded to my CSCI101 course.
 
 ## Table of contents
-* [Module 2] (#module-2)
+* [Module 2] (https://github.com/jramirezgit/CSCI101#module-2)
 * [Module 3] (#module-3)
 * [Module 4] (#module-4)
 
