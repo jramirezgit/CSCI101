@@ -1,12 +1,14 @@
+<!--Heading-->
 # CSCI101
-These are codes uploaded to my CSCI101 course.
+These are my codes uploaded to the CSCI101 course during college.
 
+<!--Table on contents (Don't forget the space between the heading and link-->
 ## Table of contents
 * [Module 2](https://github.com/jramirezgit/CSCI101#module-2)
 * [Module 3] (#module-3)
 * [Module 4] (#module-4)
 
-<a name="module-2"></a>
+<!--Module 2-->
 ## Module 2
 ### M02 Programming Assignment - Part 1
 In this assignment, we are demostrated on how to write simple programs.
