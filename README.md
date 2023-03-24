@@ -24,4 +24,6 @@ A cookie recipe calls for the following ingredients:
 The recipe produces 48 cookies with this amount of the ingredients. This program will ask the user how many cookies he or she wants to make, then displays the number of cups of each ingredient needed for the user specified number of cookies.
 
 This is the output of this specific code:
-![alt text](https)
+![M02 Progamming Assignment - Part 1 Output](https://github.com/jramirezgit/CSCI101/blob/main/Images/M02_Programming_Assignment-Part_1_Output.png)
+
+### M02 Programming Assignment - Part 2
