@@ -6,6 +6,7 @@ These are codes uploaded to my CSCI101 course.
 * [Module 3] (#module-3)
 * [Module 4] (#module-4)
 
+<a name="module-2"></a>
 ## Module 2
 ### M02 Programming Assignment - Part 1
 In this assignment, we are demostrated on how to write simple programs.
