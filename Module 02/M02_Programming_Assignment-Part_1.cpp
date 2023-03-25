@@ -30,7 +30,7 @@ int main()
     flour = (cookies * flour_recipe) / cookie_recipe; // calculation of flour
 
     //output the result
-    cout << " To make " << cookies << " cookies, you will need: " << endl;
+    cout << "To make " << cookies << " cookies, you will need: " << endl;
     cout << sugar << " cups of sugar" << endl;
     cout << butter << " cups of butter" << endl;
     cout << flour << " cups of flour" << endl;
