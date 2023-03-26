@@ -1,14 +1,13 @@
-/* Program Name: M02_Programming_Assigment_Part_2
-* Author: Jose Ramirez
-* Date Last Updated: 1/31/2023
-* Purpose: Get the input from user for the cost of a meal and add tax amount, tip amount, and output the total bill at the end
+/* M02_Programming_Assigment_Part_2
+* Jose Ramirez
+* 3/25/2023
+* Get the input from user for the cost of a meal and add tax amount, tip amount, and output the total bill at the end
 */
 
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
 	//declare the variables
 	float meal;
 	float tax;

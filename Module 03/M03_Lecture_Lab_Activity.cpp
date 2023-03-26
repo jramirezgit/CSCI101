@@ -1,14 +1,13 @@
-/* M03 Lecture Lab Activity - Jose Ramirez.cpp
+/* M03_Lecture_Lab_Activity.cpp
 * Jose Ramirez
-* 2/16/2023
+* 3/25/2023
 * Input of a grade and convert to a letter grade
 */
 
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     int grade;
     char letterGrade;
 

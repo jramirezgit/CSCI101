@@ -1,14 +1,13 @@
-/*Program name: M02_Programming_Assigment_Part_1.cpp
-* Author: Jose Ramirez
-* Date last updated: 3/24/2023
-* Purpose: Program to determine the number of cookies and the materials needed to make these cookies
+/* M02_Programming_Assigment_Part_1.cpp
+* Jose Ramirez
+* 3/25/2023
+* Program to determine the number of cookies and the materials needed to make these cookies
 */
 
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     //declare variables
     float cookies;
     float sugar;
